@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SmartGrain AI</title>
+</head>
+<body style="text-align:center; font-family:Arial;">
+
+  <h1>SmartGrain AI</h1>
+  <p>Upload grain image to analyze quality</p>
+
+  <input type="file"><br><br>
+  <button onclick="analyze()">Analyze</button>
+
+  <p id="output"></p>
+
+  <script>
+    function analyze() {
+      document.getElementById("output").innerHTML =
+        "Grain: Rice <br> Quality: Good <br> Impurities: 8%";
+    }
+  </script>
+
+</body>
+</html>
