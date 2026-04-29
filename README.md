@@ -55,11 +55,16 @@ SmartGrain AI allows users to upload an image of grains and uses AI (Gemini) to:
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Demo Video(Final Submission Version)
 
 👉 https://youtu.be/jEM8jY9pFs0
 
 ---
+## 🔴 Updated Demo Video (Improved Explanation)
+
+👉 https://youtu.be/vj2fvqvqM_A
+
+Note: An improved demo video with clearer explanation is provided above. -->
 
 ## 📸 Screenshots
 
